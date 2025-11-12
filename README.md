@@ -1,5 +1,5 @@
-Sports Player Recommender using PCA | Fantasy XI Builder
-Machine Learning Project | PCA | Feature Engineering | Player Similarity Recommender
+# Sports Player Recommender using PCA 
+Fantasy XI Builder | Machine Learning Project | PCA | Feature Engineering | Player Similarity Recommender
 
 Project Overview
 This project builds a Sports Player Recommender System for cricket using Principal Component Analysis (PCA) for dimensionality reduction and custom performance scoring to recommend the best Fantasy XI team.
